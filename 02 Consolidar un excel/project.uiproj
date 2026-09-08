@@ -1,0 +1,6 @@
+{
+  "Name": "02 Consolidar un excel",
+  "ProjectType": "Process",
+  "Description": "se debe tener activado la herramienta Excel Add-in",
+  "MainFile": "Main.xaml"
+}
