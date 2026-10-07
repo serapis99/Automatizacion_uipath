@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1qXH/u8gc1s=",
+  "dgSpecHash": "appWgw1dvuU=",
   "success": true,
-  "projectFilePath": "D:\\01 Primera prueba\\.local\\",
+  "projectFilePath": "C:\\dev\\Automatizacion_uipath\\01 Primera prueba\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\ruben\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512",
     "C:\\Users\\ruben\\.nuget\\packages\\dynamicexpresso.core\\2.12.0\\dynamicexpresso.core.2.12.0.nupkg.sha512",

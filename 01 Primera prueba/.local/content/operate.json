@@ -10,7 +10,7 @@
   "runtimeOptions": {
     "isAttended": false,
     "requiresUserInteraction": true,
-    "robotVersion": "26.0.201"
+    "robotVersion": "26.0.203"
   },
   "designOptions": {
     "projectProfile": "Development",

@@ -15142,11 +15142,11 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "01 Primera prueba",
-      "projectName": "01 Primera prueba",
-      "projectPath": "D:\\01 Primera prueba\\.local",
+      "projectUniqueName": "01_Hola_Mundo_Uipath",
+      "projectName": "01_Hola_Mundo_Uipath",
+      "projectPath": "C:\\dev\\Automatizacion_uipath\\01 Primera prueba\\.local",
       "packagesPath": "C:\\Users\\ruben\\.nuget\\packages\\",
-      "outputPath": "D:\\01 Primera prueba\\.local",
+      "outputPath": "C:\\dev\\Automatizacion_uipath\\01 Primera prueba\\.local",
       "UsingMicrosoftNETSdk": false,
       "restoreAuditProperties": {
         "enableAudit": "False"
@@ -15161,7 +15161,7 @@
             "version": "[26.8.0, 26.8.0]"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\UiPathPlatform\\Studio\\26.0.201-cloud.24739\\SolutionPackager\\Tools\\WorkflowCompiler\\PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\UiPathPlatform\\Studio\\26.0.203-cloud.25204\\SolutionPackager\\Tools\\WorkflowCompiler\\PortableRuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {

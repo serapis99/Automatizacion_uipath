@@ -1,5 +1,5 @@
 {
-  "Name": "01 Primera prueba",
+  "Name": "01_Hola_Mundo_Uipath",
   "ProjectType": "Process",
   "Description": "Proceso en blanco",
   "MainFile": "Main.xaml"
