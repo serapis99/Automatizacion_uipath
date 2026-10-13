@@ -401,7 +401,7 @@
           "buildTransitive/_._": {}
         }
       },
-      "Microsoft.CodeAnalysis.Common/4.13.0": {
+      "Microsoft.CodeAnalysis.Common/4.13.0-3.24620.4": {
         "type": "package",
         "dependencies": {
           "Microsoft.CodeAnalysis.Analyzers": "3.11.0",
@@ -460,11 +460,11 @@
           }
         }
       },
-      "Microsoft.CodeAnalysis.CSharp/4.13.0": {
+      "Microsoft.CodeAnalysis.CSharp/4.13.0-3.24620.4": {
         "type": "package",
         "dependencies": {
           "Microsoft.CodeAnalysis.Analyzers": "3.11.0",
-          "Microsoft.CodeAnalysis.Common": "[4.13.0]",
+          "Microsoft.CodeAnalysis.Common": "[4.13.0-3.24620.4]",
           "System.Collections.Immutable": "8.0.0",
           "System.Reflection.Metadata": "8.0.0"
         },
@@ -520,11 +520,11 @@
           }
         }
       },
-      "Microsoft.CodeAnalysis.VisualBasic/4.13.0": {
+      "Microsoft.CodeAnalysis.VisualBasic/4.13.0-3.24620.4": {
         "type": "package",
         "dependencies": {
           "Microsoft.CodeAnalysis.Analyzers": "3.11.0",
-          "Microsoft.CodeAnalysis.Common": "[4.13.0]",
+          "Microsoft.CodeAnalysis.Common": "[4.13.0-3.24620.4]",
           "System.Collections.Immutable": "8.0.0",
           "System.Reflection.Metadata": "8.0.0"
         },
@@ -4587,7 +4587,7 @@
           "buildTransitive/_._": {}
         }
       },
-      "Microsoft.CodeAnalysis.Common/4.13.0": {
+      "Microsoft.CodeAnalysis.Common/4.13.0-3.24620.4": {
         "type": "package",
         "dependencies": {
           "Microsoft.CodeAnalysis.Analyzers": "3.11.0",
@@ -4646,11 +4646,11 @@
           }
         }
       },
-      "Microsoft.CodeAnalysis.CSharp/4.13.0": {
+      "Microsoft.CodeAnalysis.CSharp/4.13.0-3.24620.4": {
         "type": "package",
         "dependencies": {
           "Microsoft.CodeAnalysis.Analyzers": "3.11.0",
-          "Microsoft.CodeAnalysis.Common": "[4.13.0]",
+          "Microsoft.CodeAnalysis.Common": "[4.13.0-3.24620.4]",
           "System.Collections.Immutable": "8.0.0",
           "System.Reflection.Metadata": "8.0.0"
         },
@@ -4706,11 +4706,11 @@
           }
         }
       },
-      "Microsoft.CodeAnalysis.VisualBasic/4.13.0": {
+      "Microsoft.CodeAnalysis.VisualBasic/4.13.0-3.24620.4": {
         "type": "package",
         "dependencies": {
           "Microsoft.CodeAnalysis.Analyzers": "3.11.0",
-          "Microsoft.CodeAnalysis.Common": "[4.13.0]",
+          "Microsoft.CodeAnalysis.Common": "[4.13.0-3.24620.4]",
           "System.Collections.Immutable": "8.0.0",
           "System.Reflection.Metadata": "8.0.0"
         },
@@ -9461,10 +9461,10 @@
         "tools/uninstall.ps1"
       ]
     },
-    "Microsoft.CodeAnalysis.Common/4.13.0": {
-      "sha512": "T8nRl4mAUY4mhdYM4U2ra2vP2EL+ol8Yqwo0gwC/V55vmlXq9NxdIkZJynTpTL1uX/jHijJ90AeOEx4lf7OwzQ==",
+    "Microsoft.CodeAnalysis.Common/4.13.0-3.24620.4": {
+      "sha512": "0uAj9a1cxfLE8J5KYclS++laIfwJMw5em8lmr5SK7CLqJ0EkCVoxJHDXa0bLOmq3ri0SKTqDIDpUgpkfRIkmWw==",
       "type": "package",
-      "path": "microsoft.codeanalysis.common/4.13.0",
+      "path": "microsoft.codeanalysis.common/4.13.0-3.24620.4",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -9518,14 +9518,14 @@
         "lib/netstandard2.0/tr/Microsoft.CodeAnalysis.resources.dll",
         "lib/netstandard2.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll",
         "lib/netstandard2.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll",
-        "microsoft.codeanalysis.common.4.13.0.nupkg.sha512",
+        "microsoft.codeanalysis.common.4.13.0-3.24620.4.nupkg.sha512",
         "microsoft.codeanalysis.common.nuspec"
       ]
     },
-    "Microsoft.CodeAnalysis.CSharp/4.13.0": {
-      "sha512": "BsH7Vijbj9IL7Fj4k/ysZSVyLGFqr75wmdFGwCKWJvSjnA1xwPaQ3hkB2BQdHOt5CpEYA6Q0I6Oo5sDTDHqHsg==",
+    "Microsoft.CodeAnalysis.CSharp/4.13.0-3.24620.4": {
+      "sha512": "jdgUdv1r4CiWcFTP6LACVq2E51E06AW3YenDFeZYb86t/M21vbWwHGwG9MGCJRXI3i7oY1LwoPbX5zLLizE2Eg==",
       "type": "package",
-      "path": "microsoft.codeanalysis.csharp/4.13.0",
+      "path": "microsoft.codeanalysis.csharp/4.13.0-3.24620.4",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -9579,14 +9579,14 @@
         "lib/netstandard2.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll",
         "lib/netstandard2.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll",
         "lib/netstandard2.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll",
-        "microsoft.codeanalysis.csharp.4.13.0.nupkg.sha512",
+        "microsoft.codeanalysis.csharp.4.13.0-3.24620.4.nupkg.sha512",
         "microsoft.codeanalysis.csharp.nuspec"
       ]
     },
-    "Microsoft.CodeAnalysis.VisualBasic/4.13.0": {
-      "sha512": "uUdgGMZClXwDz8NIfOcNC8R9Y1p+51AYgOgFflw67Plj5xX/E0wlsxrthYJH5tyBeI791iogEgZ1L2m1+2KSsw==",
+    "Microsoft.CodeAnalysis.VisualBasic/4.13.0-3.24620.4": {
+      "sha512": "eMG6PaD9gMETyK57W6T70NkxjvUHPkRqqUVEIzYarToLpkIV06QJjh7ng70RCaOUi9V1ZDC684WrPOTCx1Moow==",
       "type": "package",
-      "path": "microsoft.codeanalysis.visualbasic/4.13.0",
+      "path": "microsoft.codeanalysis.visualbasic/4.13.0-3.24620.4",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -9640,7 +9640,7 @@
         "lib/netstandard2.0/tr/Microsoft.CodeAnalysis.VisualBasic.resources.dll",
         "lib/netstandard2.0/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.resources.dll",
         "lib/netstandard2.0/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.resources.dll",
-        "microsoft.codeanalysis.visualbasic.4.13.0.nupkg.sha512",
+        "microsoft.codeanalysis.visualbasic.4.13.0-3.24620.4.nupkg.sha512",
         "microsoft.codeanalysis.visualbasic.nuspec"
       ]
     },
@@ -16583,7 +16583,7 @@
             "version": "[26.8.0, 26.8.0]"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\Ruben\\AppData\\Local\\Programs\\UiPathPlatform\\Studio\\26.0.201-cloud.24739\\PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\Ruben\\AppData\\Local\\Programs\\UiPathPlatform\\Studio\\26.0.203-cloud.25211\\SolutionPackager\\Tools\\WorkflowCompiler\\PortableRuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {
@@ -16591,40 +16591,5 @@
         "#import": []
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1603",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "UiPath.System.Activities 26.8.0 depends on Microsoft.CodeAnalysis.Common (>= 4.13.0-3.24620.4) but Microsoft.CodeAnalysis.Common 4.13.0-3.24620.4 was not found. Microsoft.CodeAnalysis.Common 4.13.0 was resolved instead.",
-      "libraryId": "Microsoft.CodeAnalysis.Common",
-      "targetGraphs": [
-        "net8.0-windows7.0",
-        "net8.0-windows7.0/win-x64"
-      ]
-    },
-    {
-      "code": "NU1603",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "UiPath.System.Activities 26.8.0 depends on Microsoft.CodeAnalysis.CSharp (>= 4.13.0-3.24620.4) but Microsoft.CodeAnalysis.CSharp 4.13.0-3.24620.4 was not found. Microsoft.CodeAnalysis.CSharp 4.13.0 was resolved instead.",
-      "libraryId": "Microsoft.CodeAnalysis.CSharp",
-      "targetGraphs": [
-        "net8.0-windows7.0",
-        "net8.0-windows7.0/win-x64"
-      ]
-    },
-    {
-      "code": "NU1603",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "UiPath.System.Activities 26.8.0 depends on Microsoft.CodeAnalysis.VisualBasic (>= 4.13.0-3.24620.4) but Microsoft.CodeAnalysis.VisualBasic 4.13.0-3.24620.4 was not found. Microsoft.CodeAnalysis.VisualBasic 4.13.0 was resolved instead.",
-      "libraryId": "Microsoft.CodeAnalysis.VisualBasic",
-      "targetGraphs": [
-        "net8.0-windows7.0",
-        "net8.0-windows7.0/win-x64"
-      ]
-    }
-  ]
+  }
 }

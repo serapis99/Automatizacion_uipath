@@ -15138,16 +15138,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ruben\\.nuget\\packages\\": {}
+    "C:\\Users\\Ruben\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "01 Primera prueba",
       "projectName": "01 Primera prueba",
-      "projectPath": "D:\\01 Primera prueba\\.local",
-      "packagesPath": "C:\\Users\\ruben\\.nuget\\packages\\",
-      "outputPath": "D:\\01 Primera prueba\\.local",
+      "projectPath": "C:\\dev\\uipath\\01 Primera prueba\\.local",
+      "packagesPath": "C:\\Users\\Ruben\\.nuget\\packages\\",
+      "outputPath": "C:\\dev\\uipath\\01 Primera prueba\\.local",
       "UsingMicrosoftNETSdk": false,
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "restoreAuditProperties": {
         "enableAudit": "False"
       }
@@ -15161,7 +15165,7 @@
             "version": "[26.8.0, 26.8.0]"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\UiPathPlatform\\Studio\\26.0.201-cloud.24739\\SolutionPackager\\Tools\\WorkflowCompiler\\PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\Ruben\\AppData\\Local\\Programs\\UiPathPlatform\\Studio\\26.0.203-cloud.25211\\SolutionPackager\\Tools\\WorkflowCompiler\\PortableRuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {

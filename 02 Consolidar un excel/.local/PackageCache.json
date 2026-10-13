@@ -81,9 +81,9 @@
         "C:\\Users\\Ruben\\.nuget\\packages\\microsoft.aspnetcore.signalr.common\\6.0.36\\lib/net6.0/Microsoft.AspNetCore.SignalR.Common.dll",
         "C:\\Users\\Ruben\\.nuget\\packages\\microsoft.aspnetcore.signalr.protocols.json\\6.0.36\\lib/net6.0/Microsoft.AspNetCore.SignalR.Protocols.Json.dll",
         "C:\\Users\\Ruben\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\8.0.0\\lib/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll",
-        "C:\\Users\\Ruben\\.nuget\\packages\\microsoft.codeanalysis.common\\4.13.0\\lib/net8.0/Microsoft.CodeAnalysis.dll",
-        "C:\\Users\\Ruben\\.nuget\\packages\\microsoft.codeanalysis.csharp\\4.13.0\\lib/net8.0/Microsoft.CodeAnalysis.CSharp.dll",
-        "C:\\Users\\Ruben\\.nuget\\packages\\microsoft.codeanalysis.visualbasic\\4.13.0\\lib/net8.0/Microsoft.CodeAnalysis.VisualBasic.dll",
+        "C:\\Users\\Ruben\\.nuget\\packages\\microsoft.codeanalysis.common\\4.13.0-3.24620.4\\lib/net8.0/Microsoft.CodeAnalysis.dll",
+        "C:\\Users\\Ruben\\.nuget\\packages\\microsoft.codeanalysis.csharp\\4.13.0-3.24620.4\\lib/net8.0/Microsoft.CodeAnalysis.CSharp.dll",
+        "C:\\Users\\Ruben\\.nuget\\packages\\microsoft.codeanalysis.visualbasic\\4.13.0-3.24620.4\\lib/net8.0/Microsoft.CodeAnalysis.VisualBasic.dll",
         "C:\\Users\\Ruben\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0\\lib/netstandard2.0/Microsoft.Extensions.Caching.Abstractions.dll",
         "C:\\Users\\Ruben\\.nuget\\packages\\microsoft.extensions.caching.memory\\6.0.2\\lib/netstandard2.0/Microsoft.Extensions.Caching.Memory.dll",
         "C:\\Users\\Ruben\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.2\\lib/net6.0/Microsoft.Extensions.DependencyInjection.dll",
@@ -437,7 +437,7 @@
     },
     "Microsoft.CodeAnalysis.Common": {
       "Id": "Microsoft.CodeAnalysis.Common",
-      "Version": "4.13.0",
+      "Version": "4.13.0-3.24620.4",
       "Dependencies": [
         {
           "Item1": "Microsoft.CodeAnalysis.Analyzers",
@@ -455,11 +455,11 @@
     },
     "Microsoft.CodeAnalysis.CSharp": {
       "Id": "Microsoft.CodeAnalysis.CSharp",
-      "Version": "4.13.0",
+      "Version": "4.13.0-3.24620.4",
       "Dependencies": [
         {
           "Item1": "Microsoft.CodeAnalysis.Common",
-          "Item2": "[4.13.0, 4.13.0]"
+          "Item2": "[4.13.0-3.24620.4, 4.13.0-3.24620.4]"
         },
         {
           "Item1": "Microsoft.CodeAnalysis.Analyzers",
@@ -477,11 +477,11 @@
     },
     "Microsoft.CodeAnalysis.VisualBasic": {
       "Id": "Microsoft.CodeAnalysis.VisualBasic",
-      "Version": "4.13.0",
+      "Version": "4.13.0-3.24620.4",
       "Dependencies": [
         {
           "Item1": "Microsoft.CodeAnalysis.Common",
-          "Item2": "[4.13.0, 4.13.0]"
+          "Item2": "[4.13.0-3.24620.4, 4.13.0-3.24620.4]"
         },
         {
           "Item1": "Microsoft.CodeAnalysis.Analyzers",
@@ -3769,32 +3769,32 @@
     {
       "Package": {
         "Id": "Microsoft.CodeAnalysis.Common",
-        "Version": "4.13.0"
+        "Version": "4.13.0-3.24620.4"
       },
       "Assemblies": [
-        "C:\\Users\\Ruben\\.nuget\\packages\\microsoft.codeanalysis.common\\4.13.0\\lib\\net8.0\\Microsoft.CodeAnalysis.dll"
+        "C:\\Users\\Ruben\\.nuget\\packages\\microsoft.codeanalysis.common\\4.13.0-3.24620.4\\lib\\net8.0\\Microsoft.CodeAnalysis.dll"
       ],
-      "Path": "C:\\Users\\Ruben\\.nuget\\packages\\microsoft.codeanalysis.common\\4.13.0"
+      "Path": "C:\\Users\\Ruben\\.nuget\\packages\\microsoft.codeanalysis.common\\4.13.0-3.24620.4"
     },
     {
       "Package": {
         "Id": "Microsoft.CodeAnalysis.CSharp",
-        "Version": "4.13.0"
+        "Version": "4.13.0-3.24620.4"
       },
       "Assemblies": [
-        "C:\\Users\\Ruben\\.nuget\\packages\\microsoft.codeanalysis.csharp\\4.13.0\\lib\\net8.0\\Microsoft.CodeAnalysis.CSharp.dll"
+        "C:\\Users\\Ruben\\.nuget\\packages\\microsoft.codeanalysis.csharp\\4.13.0-3.24620.4\\lib\\net8.0\\Microsoft.CodeAnalysis.CSharp.dll"
       ],
-      "Path": "C:\\Users\\Ruben\\.nuget\\packages\\microsoft.codeanalysis.csharp\\4.13.0"
+      "Path": "C:\\Users\\Ruben\\.nuget\\packages\\microsoft.codeanalysis.csharp\\4.13.0-3.24620.4"
     },
     {
       "Package": {
         "Id": "Microsoft.CodeAnalysis.VisualBasic",
-        "Version": "4.13.0"
+        "Version": "4.13.0-3.24620.4"
       },
       "Assemblies": [
-        "C:\\Users\\Ruben\\.nuget\\packages\\microsoft.codeanalysis.visualbasic\\4.13.0\\lib\\net8.0\\Microsoft.CodeAnalysis.VisualBasic.dll"
+        "C:\\Users\\Ruben\\.nuget\\packages\\microsoft.codeanalysis.visualbasic\\4.13.0-3.24620.4\\lib\\net8.0\\Microsoft.CodeAnalysis.VisualBasic.dll"
       ],
-      "Path": "C:\\Users\\Ruben\\.nuget\\packages\\microsoft.codeanalysis.visualbasic\\4.13.0"
+      "Path": "C:\\Users\\Ruben\\.nuget\\packages\\microsoft.codeanalysis.visualbasic\\4.13.0-3.24620.4"
     },
     {
       "Package": {

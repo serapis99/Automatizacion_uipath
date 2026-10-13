@@ -1,0 +1,6 @@
+{
+  "Name": "03 variables",
+  "ProjectType": "Process",
+  "Description": "validar como funcionan las variables en uipath\r\n",
+  "MainFile": "Main.xaml"
+}

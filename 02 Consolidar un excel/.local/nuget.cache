@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "MXa1xtnVyJw=",
+  "dgSpecHash": "b1z/ZzZjKs8=",
   "success": true,
   "projectFilePath": "C:\\dev\\uipath\\02 Consolidar un excel\\.local\\",
   "expectedPackageFiles": [
@@ -31,9 +31,9 @@
     "C:\\Users\\Ruben\\.nuget\\packages\\microsoft.aspnetcore.signalr.protocols.json\\6.0.36\\microsoft.aspnetcore.signalr.protocols.json.6.0.36.nupkg.sha512",
     "C:\\Users\\Ruben\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\8.0.0\\microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
     "C:\\Users\\Ruben\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.11.0\\microsoft.codeanalysis.analyzers.3.11.0.nupkg.sha512",
-    "C:\\Users\\Ruben\\.nuget\\packages\\microsoft.codeanalysis.common\\4.13.0\\microsoft.codeanalysis.common.4.13.0.nupkg.sha512",
-    "C:\\Users\\Ruben\\.nuget\\packages\\microsoft.codeanalysis.csharp\\4.13.0\\microsoft.codeanalysis.csharp.4.13.0.nupkg.sha512",
-    "C:\\Users\\Ruben\\.nuget\\packages\\microsoft.codeanalysis.visualbasic\\4.13.0\\microsoft.codeanalysis.visualbasic.4.13.0.nupkg.sha512",
+    "C:\\Users\\Ruben\\.nuget\\packages\\microsoft.codeanalysis.common\\4.13.0-3.24620.4\\microsoft.codeanalysis.common.4.13.0-3.24620.4.nupkg.sha512",
+    "C:\\Users\\Ruben\\.nuget\\packages\\microsoft.codeanalysis.csharp\\4.13.0-3.24620.4\\microsoft.codeanalysis.csharp.4.13.0-3.24620.4.nupkg.sha512",
+    "C:\\Users\\Ruben\\.nuget\\packages\\microsoft.codeanalysis.visualbasic\\4.13.0-3.24620.4\\microsoft.codeanalysis.visualbasic.4.13.0-3.24620.4.nupkg.sha512",
     "C:\\Users\\Ruben\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Ruben\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0\\microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\Ruben\\.nuget\\packages\\microsoft.extensions.caching.memory\\6.0.2\\microsoft.extensions.caching.memory.6.0.2.nupkg.sha512",
@@ -234,45 +234,5 @@
     "C:\\Users\\Ruben\\.nuget\\packages\\uipath.system.activities.runtime.windows\\26.8.0\\uipath.system.activities.runtime.windows.26.8.0.nupkg.sha512",
     "C:\\Users\\Ruben\\.nuget\\packages\\uipath.telemetry.client\\2.12.0\\uipath.telemetry.client.2.12.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1603",
-      "level": "Warning",
-      "message": "UiPath.System.Activities 26.8.0 depends on Microsoft.CodeAnalysis.Common (>= 4.13.0-3.24620.4) but Microsoft.CodeAnalysis.Common 4.13.0-3.24620.4 was not found. Microsoft.CodeAnalysis.Common 4.13.0 was resolved instead.",
-      "projectPath": "C:\\dev\\uipath\\02 Consolidar un excel\\.local",
-      "warningLevel": 1,
-      "filePath": "C:\\dev\\uipath\\02 Consolidar un excel\\.local",
-      "libraryId": "Microsoft.CodeAnalysis.Common",
-      "targetGraphs": [
-        "net8.0-windows7.0",
-        "net8.0-windows7.0/win-x64"
-      ]
-    },
-    {
-      "code": "NU1603",
-      "level": "Warning",
-      "message": "UiPath.System.Activities 26.8.0 depends on Microsoft.CodeAnalysis.CSharp (>= 4.13.0-3.24620.4) but Microsoft.CodeAnalysis.CSharp 4.13.0-3.24620.4 was not found. Microsoft.CodeAnalysis.CSharp 4.13.0 was resolved instead.",
-      "projectPath": "C:\\dev\\uipath\\02 Consolidar un excel\\.local",
-      "warningLevel": 1,
-      "filePath": "C:\\dev\\uipath\\02 Consolidar un excel\\.local",
-      "libraryId": "Microsoft.CodeAnalysis.CSharp",
-      "targetGraphs": [
-        "net8.0-windows7.0",
-        "net8.0-windows7.0/win-x64"
-      ]
-    },
-    {
-      "code": "NU1603",
-      "level": "Warning",
-      "message": "UiPath.System.Activities 26.8.0 depends on Microsoft.CodeAnalysis.VisualBasic (>= 4.13.0-3.24620.4) but Microsoft.CodeAnalysis.VisualBasic 4.13.0-3.24620.4 was not found. Microsoft.CodeAnalysis.VisualBasic 4.13.0 was resolved instead.",
-      "projectPath": "C:\\dev\\uipath\\02 Consolidar un excel\\.local",
-      "warningLevel": 1,
-      "filePath": "C:\\dev\\uipath\\02 Consolidar un excel\\.local",
-      "libraryId": "Microsoft.CodeAnalysis.VisualBasic",
-      "targetGraphs": [
-        "net8.0-windows7.0",
-        "net8.0-windows7.0/win-x64"
-      ]
-    }
-  ]
+  "logs": []
 }
