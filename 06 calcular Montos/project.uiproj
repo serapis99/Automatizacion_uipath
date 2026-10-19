@@ -1,0 +1,6 @@
+{
+  "Name": "06 calcular Montos",
+  "ProjectType": "Process",
+  "Description": "Blank Process",
+  "MainFile": "Main.xaml"
+}
